@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: UNLICENSED
-//since this⬆️ is our unlicensed contract
+//since this⬆️ is our unlicensed contract, so for best practice, we specify it here :)
 
 pragma solidity >=0.8.0; // defined our solidity compiler version
 
